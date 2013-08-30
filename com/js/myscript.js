@@ -23,7 +23,5 @@ $(document).ready(function() {
             $("#e1").select2("val", "");
          
         });
-
-
         $("#e1").select2('open');
 });
