@@ -8,4 +8,3 @@ jqueryapi.crx 为chrome 插件的 安装文件 . 安装方式如下
 2. 点击 工具栏目下的扩展应用程序选项 
 3. 把jqueryapi.crx 拖拽上去 !  
 
-
