@@ -1,6 +1,11 @@
 var preload_data = {
     "more": false,
     "results":[
+    			{
+    				"id":"cheatsheet",
+    				"text":"速查表"
+
+    			},
 			    {
 			        "text": "Ajax",
 			        "children": [
